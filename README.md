@@ -15,11 +15,6 @@ Screenshots:
 
 ![image](https://github.com/alptug01/OnlineDietWebsite/assets/102905961/46654a61-1a8d-49c8-85d1-377361b19994)
 
-![image](https://github.com/alptug01/OnlineDietWebsite/assets/102905961/dccaa87f-341a-4904-ae56-1f033574dfd8)
-
-![image](https://github.com/alptug01/OnlineDietWebsite/assets/102905961/c8127f50-bb59-444b-8116-26f91b4cb241)
-
-
 ![image](https://github.com/alptug01/OnlineDietWebsite/assets/102905961/d6016ab7-5596-47c6-8f5e-c01fbd8c2999)
 
 
